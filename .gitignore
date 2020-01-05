@@ -105,3 +105,6 @@ dist
 
 # postgres
 postgres-data/
+
+# build files
+dist/
