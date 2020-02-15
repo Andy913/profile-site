@@ -3,10 +3,9 @@ import React from 'react';
 class Home extends React.Component {
     render() {
         return (
-            <div style={{ color: `purple` }}>
-                <h1>Andy Ho</h1>
+            <div>
                 <img src="https://source.unsplash.com/random/400x200" alt="" />
-          </div>
+            </div>
         )
     }
 }
