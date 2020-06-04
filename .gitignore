@@ -108,3 +108,4 @@ postgres-data/
 
 # build files
 dist/
+profile_site.code-workspace
